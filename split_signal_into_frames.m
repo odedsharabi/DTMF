@@ -9,5 +9,4 @@ function Frames = split_signal_into_frames(signal,time,fs)
             count = count+1;
         end
     end
-    
 end
